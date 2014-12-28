@@ -1,13 +1,13 @@
 <?php
 /**
  * @file
- * collabco_spam_feature.strongarm.inc
+ * spam_feature.strongarm.inc
  */
 
 /**
  * Implements hook_strongarm().
  */
-function collabco_spam_feature_strongarm() {
+function spam_feature_strongarm() {
   $export = array();
 
   $strongarm = new stdClass();

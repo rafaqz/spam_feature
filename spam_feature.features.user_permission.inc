@@ -1,13 +1,13 @@
 <?php
 /**
  * @file
- * collabco_spam_feature.features.user_permission.inc
+ * spam_feature.features.user_permission.inc
  */
 
 /**
  * Implements hook_user_default_permissions().
  */
-function collabco_spam_feature_user_default_permissions() {
+function spam_feature_user_default_permissions() {
   $permissions = array();
 
   // Exported permission: 'administer honeypot'.

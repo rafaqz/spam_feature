@@ -4,4 +4,4 @@
  * Code for the Collabco Spam Feature feature.
  */
 
-include_once 'collabco_spam_feature.features.inc';
+include_once 'spam_feature.features.inc';
