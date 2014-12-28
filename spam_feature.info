@@ -1,7 +1,7 @@
-name = Collabco Spam Feature
+name = Spam Feature
 description = Spam protection.
 core = 7.x
-package = Collabco
+package = Features
 version = 7.x-1.0-alpha1
 project = spam_feature
 dependencies[] = ctools
