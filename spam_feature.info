@@ -44,4 +44,3 @@ features[variable][] = honeypot_form_user_register_form
 features[variable][] = honeypot_log
 features[variable][] = honeypot_protect_all_forms
 features[variable][] = honeypot_time_limit
-project path = sites/all/modules/features
